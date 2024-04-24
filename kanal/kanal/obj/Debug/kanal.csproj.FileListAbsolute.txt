@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\kanal\kanal\bin\Debug\kanal.exe.config
+C:\Users\HP\source\repos\kanal\kanal\bin\Debug\kanal.exe
+C:\Users\HP\source\repos\kanal\kanal\bin\Debug\kanal.pdb
+C:\Users\HP\source\repos\kanal\kanal\obj\Debug\kanal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\kanal\kanal\obj\Debug\kanal.Form1.resources
+C:\Users\HP\source\repos\kanal\kanal\obj\Debug\kanal.Properties.Resources.resources
+C:\Users\HP\source\repos\kanal\kanal\obj\Debug\kanal.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\kanal\kanal\obj\Debug\kanal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\kanal\kanal\obj\Debug\kanal.exe
+C:\Users\HP\source\repos\kanal\kanal\obj\Debug\kanal.pdb
